@@ -1,4 +1,5 @@
-![image](https://github.com/pushkar-2804/pushkar-2804/assets/104600849/758e61cc-a8f8-478c-b195-575d29cba567)
+
+![gif](https://github.com/pushkar-2804/pushkar-2804/assets/104600849/dc5a56b7-f04e-42b3-90cf-0665ba8fde5d)
 
 
 # 💫 About Me:

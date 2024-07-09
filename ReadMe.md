@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working as a backend developer @Gauge.ro<br>👯 I’m looking to collaborate on any Web development projects<br>💬 Ask me about ReactJS<br>⚡ Fun fact : The first computer virus was a Creeper.
+🔭 I’m currently working as a Fullstack developer @Gauge.ro<br>👯 I’m looking to collaborate on any Web development projects<br>💬 Ask me about ReactJS<br>⚡ Fun fact : The first computer virus was a Creeper.
 
 
 ## 🌐 Socials:
